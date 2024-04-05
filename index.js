@@ -1,1 +1,1 @@
-console.log("Chat app under construction");
+console.log("Chat app under construction!");
