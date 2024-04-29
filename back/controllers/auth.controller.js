@@ -1,14 +1,26 @@
-export const login = (req,res)=>{
-    res.send("login")
-    console.log("log in")
+export const login = async (req,res)=>{
+   try{
+
+   }
+   catch{
+    
+   }
 }
 
-export const logout = (req,res)=>{
-    res.send("logout")
-    console.log("log out");
+export const logout = async (req,res)=>{
+   try{
+
+   }
+   catch{
+
+   }
 }
 
-export const signup =(req,res)=>{
-    res.send("signup")
-    console.log("sign up");
+export const signup = async (req,res)=>{
+    try{
+
+    }
+    catch{
+
+    }
 }
