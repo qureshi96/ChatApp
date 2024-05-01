@@ -1,9 +1,10 @@
 export const login = async (req,res)=>{
    try{
+    console.log("login")
 
    }
    catch{
-    
+
    }
 }
 
@@ -20,7 +21,7 @@ export const signup = async (req,res)=>{
     try{
 
     }
-    catch{
+    catch {
 
     }
 }
