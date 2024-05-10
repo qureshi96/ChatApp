@@ -19,6 +19,8 @@ export const logout = async (req,res)=>{
 
 export const signup = async (req,res)=>{
     try{
+        console.log("signup")
+
 
     }
     catch {
